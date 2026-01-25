@@ -1,7 +1,7 @@
 # Mustafa Talha Akgül
 > **AI Software Engineer & Backend Developer**
 
-AI-focused Software Engineer with hands-on experience in **ML, LLM, and backend systems**. Specializing in **RAG architectures**, **secure on-premise AI solutions**, and **microservices**. Passionate about building robust, scalable systems that solve real-world security and analytical problems.
+AI-focused Software Engineer experienced in **ML, LLM, and Backend systems**. Building secure, scalable solutions with **RAG architectures** and **microservices**.
 
 ---
 
@@ -18,18 +18,18 @@ AI-focused Software Engineer with hands-on experience in **ML, LLM, and backend 
 
 ### Selected Projects
 
-#### **Folsec AI Assistant & Audit System**
-*Deployed for National Security usage (Presidency of Defense Industries approved).*
-- **Architecture**: Designed a secure, air-gapped **RAG (Retrieval-Augmented Generation)** chatbot for querying sensitive database logs.
-- **Hybrid Search**: Engineered a search engine combining **Elasticsearch** (vector) and **PostgreSQL** (relational) data for high-precision retrieval.
-- **Backend**: Built complete microservices using **FastAPI** and **Docker** to manage resource-heavy LLM inference (Ollama/Llama).
-- **Security**: Implemented on-premise deployment strategies for strict data privacy requirements.
-
 #### **Ergonomic Posture Analysis System**
 *End-to-end IoT and ML solution.*
 - **IoT & Reverse Engineering**: Reverse-engineered BLE protocols to bypass API limitations and access raw sensor data from hardware.
 - **ML Pipeline**: Developed a posture classification model with **0.91 accuracy** using Random Forest and XGBoost ensembles.
 - **Mobile Integration**: Built a real-time **Flutter** application to visualize sensor streams and provide corrective feedback.
+
+#### **Customer Churn Prediction Analysis**
+*Algorithmic solution for large-scale banking dataset (ING Bank Challenge).*
+- **Data Scale**: Processed behavioral profiles and transaction histories of **200,000+ users** to identify attrition risks.
+- **Modeling Strategy**: Built a high-performance **Gradient Boosting (CatBoost)** and **PyTorch** pipeline.
+- **Validation**: Achieved **1.1864 OOF score** through rigorous cross-validation and feature engineering.
+- **Stack**: Python, CatBoost, PyTorch, Scikit-learn.
 
 #### **SmartEdu**
 *TÜBİTAK Approved AI-Powered Educational Platform.*
