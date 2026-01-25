@@ -19,10 +19,10 @@ AI-focused Software Engineer experienced in **ML, LLM, and Backend systems**. Bu
 ### Selected Projects
 
 #### **Ergonomic Posture Analysis System**
-*End-to-end IoT and ML solution.*
-- **IoT & Reverse Engineering**: Reverse-engineered BLE protocols to bypass API limitations and access raw sensor data from hardware.
-- **ML Pipeline**: Developed a posture classification model with **0.91 accuracy** using Random Forest and XGBoost ensembles.
-- **Mobile Integration**: Built a real-time **Flutter** application to visualize sensor streams and provide corrective feedback.
+*End-to-end IoT and Deep Learning solution .*
+- **Deep Learning & Cloud**: Designed and deployed a **CNN-LSTM hybrid** model on **Render Cloud** for real-time time-series classification.
+- **IoT & Reverse Engineering**: Reverse-engineered BLE protocols to access raw sensor data directly from hardware.
+- **Mobile Integration**: Built a **Flutter** app to visualize live sensor data (fl_chart) and provide instant AI-driven feedback.
 
 #### **Customer Churn Prediction Analysis**
 *Algorithmic solution for large-scale banking dataset (ING Bank Challenge).*
