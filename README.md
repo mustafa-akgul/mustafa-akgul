@@ -1,5 +1,5 @@
 # Mustafa Talha Akgül
-> **AI Engineer | AI Security | Software Engineering**
+> **AI Engineer | AI Security | Computer Engineering**
 
 Third-year Computer Engineering student with professional experience in **AI, AI Security,
 LLMs, backend development and full-stack applications**.
